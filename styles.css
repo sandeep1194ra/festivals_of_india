@@ -21,7 +21,7 @@ h1:hover {
     background-color: rgba(93, 234, 234, 0.61);
 }
 
-/*.img-div-festivals, .img-div-festival {
+.img-div-festivals, .img-div-festival {
     width: 50%;
     margin: auto;
 }
@@ -42,9 +42,9 @@ h1:hover {
     text-align: center;
     text-decoration: underline;
     padding: 5px;
-}*/
+}
 
-figure {
+/*figure {
 max-width: 80%;
 max-height: 80%;
 object-fit: cover;
@@ -63,7 +63,7 @@ figcaption {
     text-align: center;
     text-decoration: underline;
     padding: 5px;
-}
+}*/
 
 main {
     background-color: rgba(93, 234, 234, 0.61);
@@ -198,9 +198,9 @@ footer {
     border: 4px outset red;
 }
     
-  /*.img-div-festivals, .img-div-festival {
+  .img-div-festivals, .img-div-festival {
     width: 35%;
-}*/
+}
 
   .img-div-festivals img, .img-div-festival img {
     border: 4px ridge goldenrod;
