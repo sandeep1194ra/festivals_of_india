@@ -141,7 +141,7 @@ p {
  }
 
 form {
-    margin: 10px auto;
+    margin: 0 20px;
     text-align: left;
     border: 10px ridge aqua;
 }
@@ -247,7 +247,7 @@ h2 {
  }
 
  form {
-    margin: 5px auto;
+    margin: 0px auto;
     border: 4px ridge aqua;
  }
 
