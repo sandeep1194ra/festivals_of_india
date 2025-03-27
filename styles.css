@@ -45,8 +45,8 @@ h1:hover {
 }*/
 
 figure {
-max-width: 100%;
-max-height: 100%;
+max-width: 80%;
+max-height: 80%;
 object-fit: cover;
 }
 
@@ -192,7 +192,6 @@ footer {
   body {
     font-size: 0.8rem;
     border: double, 0.7rem, gold;
-    margin: 0.6rem;
 }
 
   h1 {
